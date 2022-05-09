@@ -1,4 +1,5 @@
 import logo from './images/logo-horizontal-v2.png'
+import workflow from './images/workflow.png'
 
 import capture from './images/capture.png'
 import manage from './images/manage.png'
@@ -14,6 +15,7 @@ const data = {
   ],
 
   logoPath: logo,
+  workflowImagePath: workflow,
 
   homeParagraphs: [
     "Digitalizar documentos facilita o armazenamento e o gerenciamento dos dados de uma organização. Trata-se de uma maneira de disseminar mais facilmente as informações entre os colaboradores e agilizar a busca de arquivos.",

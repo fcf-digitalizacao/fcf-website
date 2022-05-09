@@ -29,7 +29,7 @@ function Website() {
             <Redirect to="/inicio" />
           </Route>
           <Route path="/inicio">
-            <Inicio features={data.features} paragraphs={data.homeParagraphs} benefits={data.benefits} />
+            <Inicio workflowImagePath={data.workflowImagePath} features={data.features} paragraphs={data.homeParagraphs} benefits={data.benefits} />
           </Route>
           <Route path="/servicos">
             <Servicos features={data.features} />
