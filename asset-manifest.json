@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/fcf-website/static/css/main.073c9b0a.css",
-    "main.js": "/fcf-website/static/js/main.05fda0fb.js",
-    "static/js/787.71e672d5.chunk.js": "/fcf-website/static/js/787.71e672d5.chunk.js",
-    "static/media/logo.svg": "/fcf-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/fcf-website/static/css/main.35066cb6.css",
+    "main.js": "/fcf-website/static/js/main.d549322d.js",
+    "static/media/storage.png": "/fcf-website/static/media/storage.806628960324b37a3c5e.png",
+    "static/media/capture.png": "/fcf-website/static/media/capture.4f50657339c2ac122170.png",
+    "static/media/manage.png": "/fcf-website/static/media/manage.b1f69fa73f0a08dc8035.png",
+    "static/media/share.png": "/fcf-website/static/media/share.774c649ae286efd5b16b.png",
+    "static/media/logo-horizontal-v2.png": "/fcf-website/static/media/logo-horizontal-v2.3684ba7d26ad4492e876.png",
     "index.html": "/fcf-website/index.html",
-    "main.073c9b0a.css.map": "/fcf-website/static/css/main.073c9b0a.css.map",
-    "main.05fda0fb.js.map": "/fcf-website/static/js/main.05fda0fb.js.map",
-    "787.71e672d5.chunk.js.map": "/fcf-website/static/js/787.71e672d5.chunk.js.map"
+    "main.35066cb6.css.map": "/fcf-website/static/css/main.35066cb6.css.map",
+    "main.d549322d.js.map": "/fcf-website/static/js/main.d549322d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.05fda0fb.js"
+    "static/css/main.35066cb6.css",
+    "static/js/main.d549322d.js"
   ]
 }
