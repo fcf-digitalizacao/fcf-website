@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fcf-website/static/css/main.35066cb6.css",
-    "main.js": "/fcf-website/static/js/main.d549322d.js",
+    "main.js": "/fcf-website/static/js/main.b0d4f4c8.js",
     "static/media/storage.png": "/fcf-website/static/media/storage.806628960324b37a3c5e.png",
     "static/media/capture.png": "/fcf-website/static/media/capture.4f50657339c2ac122170.png",
     "static/media/manage.png": "/fcf-website/static/media/manage.b1f69fa73f0a08dc8035.png",
@@ -9,10 +9,10 @@
     "static/media/logo-horizontal-v2.png": "/fcf-website/static/media/logo-horizontal-v2.3684ba7d26ad4492e876.png",
     "index.html": "/fcf-website/index.html",
     "main.35066cb6.css.map": "/fcf-website/static/css/main.35066cb6.css.map",
-    "main.d549322d.js.map": "/fcf-website/static/js/main.d549322d.js.map"
+    "main.b0d4f4c8.js.map": "/fcf-website/static/js/main.b0d4f4c8.js.map"
   },
   "entrypoints": [
     "static/css/main.35066cb6.css",
-    "static/js/main.d549322d.js"
+    "static/js/main.b0d4f4c8.js"
   ]
 }
